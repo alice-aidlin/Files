@@ -1,2 +1,2 @@
 # work with Files, cpp
-#1st year, second semester
+#1st year, 2nd semester
